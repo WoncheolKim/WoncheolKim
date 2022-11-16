@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-![WoncheolKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=icijiy&theme=transparent&show_icons=true)
+- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoncheolKim&show_icons=true&theme=radical)
 
 <!---
 WoncheolKim/WoncheolKim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
