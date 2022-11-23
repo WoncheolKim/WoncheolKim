@@ -1,13 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Woncheol's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-
-- 👋 Hi, I’m @WoncheolKim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
 <br><h2 align="center">🛠 Tech Stack 🛠</h2>
 
 <p align="center" display="inline-block">
