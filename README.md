@@ -15,4 +15,4 @@
 ![](https://img.shields.io/badge/Rails-F7DF1E?style=for-the-badge&logo=RubyonRails&logoColor=black)
 ![](https://img.shields.io/badge/PostgreSQL-1572B6?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/jQuery-43853D?style=for-the-badge&logo=jquery&logoColor=white)
-
+![](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white)
