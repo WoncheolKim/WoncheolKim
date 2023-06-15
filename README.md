@@ -1,3 +1,5 @@
+<br><h2 align="center">James Kim</h2>
+<br><h2 align="center">Full-Stack Developer</h2>
 <br><h2 align="center">🛠 Tech Stack 🛠</h2>
 
 
