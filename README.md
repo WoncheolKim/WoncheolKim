@@ -151,8 +151,6 @@
         <br /><strong>mySQL</strong>
       </td>     
   </tr>
-    <td align="center" height="108" width="108">
-  
   <tr>
     <td>Cloud</td>
      <td align="center" height="108" width="108">
