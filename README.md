@@ -76,10 +76,10 @@
     </td>    
     <td align="center" height="108" width="108">
       <img
-        src="[https://remix.run/img/og.1.jpg](https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png)"
+        src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
         width="48"
         height="48"
-        alt="REMIX"
+        alt="NEXT"
       />
       <br /><strong>Next.js</strong>
     </td>
@@ -258,15 +258,6 @@
         alt="LINUX"
       />
       <br /><strong>Linux</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://www.lindenwood.edu/files/resources/xcomptia-aplus-logo.png.pagespeed.ic.51sgZQp_Qo.png"
-        width="48"
-        height="48"
-        alt="COMPTIAA+"
-      />
-       <br /><strong>Comptia A+</strong>
     </td>
   </tr>   
 </table>
