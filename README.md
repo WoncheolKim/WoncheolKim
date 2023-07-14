@@ -171,15 +171,6 @@
       />
       <br /><strong>Google Cloud</strong>
     </td>
-    <td align="center" height="108" width="108">
-        <img
-          src="https://gitlab.com/uploads/-/system/project/avatar/14379678/terraform.png"
-          width="48"
-          height="48"
-          alt="TERRAFORM"
-        />
-        <br /><strong>Terraform</strong>
-      </td>
   </tr>
 
   <tr>
