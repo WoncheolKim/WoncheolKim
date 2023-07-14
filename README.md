@@ -76,7 +76,7 @@
     </td>    
     <td align="center" height="108" width="108">
       <img
-        src="https://remix.run/img/og.1.jpg"
+        src="[https://remix.run/img/og.1.jpg](https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png)"
         width="48"
         height="48"
         alt="REMIX"
